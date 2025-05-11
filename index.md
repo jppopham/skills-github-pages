@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Popham's Portfolio (P^2)
 ---
 
